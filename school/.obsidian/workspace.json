@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Notes/Lesson 2024-11-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Lesson 2024-11-01"
             }
           }
         ]
@@ -180,6 +180,8 @@
   },
   "active": "25d66317d6ec2bea",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "Notes/Lesson 2024-11-01.md",
+    "Notes"
   ]
 }
